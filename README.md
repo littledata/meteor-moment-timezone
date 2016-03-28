@@ -1,11 +1,11 @@
 # [Moment Timezone](http://momentjs.com/timezone) - for Meteor
 ===============
 
-[Moment Timezone](http://momentjs.com/timezone/), Timezone support for [moment.js](http://momentjs.com), packaged for Meteor. Currently includes all timezone data files.
+[Moment Timezone](http://momentjs.com/timezone/), Timezone support for [moment.js](http://momentjs.com), packaged for Meteor. Currently includes just the 2010 - 2020 data files.
 
 ##Install
 ```bach
-meteor add risul:moment-timezone
+meteor add eupton:moment-timezone
 ```
 
 IANA Time Zone Database + [Moment.js](http://momentjs.com).
